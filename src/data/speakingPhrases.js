@@ -1,0 +1,32 @@
+export const speakingPhrases = {
+  beginner: [
+    "Hello, my name is Amina.",
+    "I am from Somalia.",
+    "How are you today?",
+    "I would like a cup of tea, please.",
+    "What time is it?",
+    "My family lives in Mogadishu.",
+    "I like to read books.",
+    "See you tomorrow.",
+  ],
+  intermediate: [
+    "I have been learning English for two years.",
+    "Could you tell me how to get to the market?",
+    "I usually wake up early to study before work.",
+    "What do you think about this idea?",
+    "I would like to improve my speaking skills.",
+    "She traveled to Nairobi last summer.",
+    "We should discuss this plan in more detail.",
+    "It's important to practice a little every day.",
+  ],
+  advanced: [
+    "If I had known about the meeting, I would have attended.",
+    "The committee reached a consensus after a long discussion.",
+    "Despite the challenges, the team achieved its goals.",
+    "I believe technology has transformed how we communicate.",
+    "It took time, but I finally got the hang of it.",
+    "The report was reviewed thoroughly before publication.",
+    "She spoke with remarkable confidence during the interview.",
+    "In hindsight, we should have planned more carefully.",
+  ],
+};
